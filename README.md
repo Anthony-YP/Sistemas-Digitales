@@ -6,12 +6,12 @@
 - **Asignatura:** Sistemas Digitales
 - **Ciclo:** 5
 
-## Datos del Estudiante
+## Datos del Estudiante:
 
 - **Nombre:** Anthony Yaguana
 
 ---
 
-# Sistemas-Digitales
+# Sistemas Digitales
 
 Repositorio académico correspondiente a la asignatura de **Sistemas Digitales**, destinado al almacenamiento y organización de las actividades desarrolladas durante el quinto ciclo de la carrera.
